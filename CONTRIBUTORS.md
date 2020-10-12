@@ -6,4 +6,4 @@
 #### Name: [Vikhyat Singh](https://github.com/vikhyatsing123)
 - Place: Varanasi, India
 - Bio: FrontEnd and Backend Developer
-- Github: [Shivam Mani Tripath](https://github.com/vikhyatsingh123)
+- Github: [Vikhyat Singh](https://github.com/vikhyatsingh123)
